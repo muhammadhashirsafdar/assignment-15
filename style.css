@@ -1,0 +1,26 @@
+
+body{
+    background-color: cadetblue;
+}
+
+.div{
+    width: 90%;
+    max-width: 500px;
+    padding: 10px 20px;
+    margin: 300px auto;
+    display: flex;
+    align-items: center;
+}
+
+.div input{
+    width: 90%;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 1px;
+    font-size: 24px;
+}
+
+
+#btn{
+    padding: 15px 20px;
+}
